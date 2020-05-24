@@ -1,1 +1,1 @@
-# Tiatni-Dataset
+# Titanic-Dataset
